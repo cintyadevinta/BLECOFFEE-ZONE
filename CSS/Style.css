@@ -617,7 +617,7 @@ footer .credit a {
 }
 
 /* Modal Animation */
-@keyframe animateModal {
+ @keyframe animateModal {
   from {
     top: -300px;
     opacity: 0;
@@ -756,7 +756,7 @@ footer .credit a {
 }
   
 /* Mobile Phone */
-@media (max-width: 450px) {
+@media (max-width: 600px) {
   html {
     font-size: 55%;
   }
